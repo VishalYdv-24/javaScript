@@ -10,6 +10,7 @@ console.log(valueInNumber);
 
 console.log(typeof(valueInNumber));
 
+// converting into Numbers then: 
 // "33" => 33
 // "33abc" => NaN
 // true => 1
@@ -21,3 +22,14 @@ let boolLoggedIn = Boolean(loggedIn);
 console.log(typeof boolLoggedIn);
 console.log(boolLoggedIn)
 
+// converting into booleans
+// 12 => true
+// 1 => true
+// 0 => false
+// "" => false
+// "vishal" => true
+// -45 => true
+
+
+// converting into string
+// 1 => string
