@@ -31,4 +31,3 @@ const myFunction = function(){
     
 }
 
-console.log(myFunction());
