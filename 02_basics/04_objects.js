@@ -59,7 +59,7 @@ const DBdata = [
         height : 5.8
     },
     {
-        favColor : "red",
+        favColor : "pink",
         favFood : "biryani"
     }
 ]
